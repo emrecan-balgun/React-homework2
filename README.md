@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-![alt text](https://github.com/[emrecan-balgun]/[react-homework2]/main.png?raw=true)
+![ScreenShot](https://raw.github.com/{emrecan-balgun}/{react-homework2}/{master}/main.png)
 
 ## Available Scripts
 
